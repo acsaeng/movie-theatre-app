@@ -4,7 +4,7 @@
 
 ## Summary
 
-A GUI-based movie theatre application providing the opportunity for users search for their favourite movies, view showtimes, book reserverations, and make payments.
+A GUI-based movie theatre application that utilizes an MVC architecture, allowing users search for their favourite movies, view showtimes, book reserverations, and make payments.
 
 To run the application locally:
 
